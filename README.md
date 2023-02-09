@@ -28,7 +28,7 @@ https://chatify.munafio.com/installation
 - composer require munafio/chatify
 - php artisan chatify:install
 - php artisan migrate
-3. etablish auth system in u app , u should login to use u chatify
+3. etablish auth system in u app , u should login to use u chatify api
 4. create a pusher account :
 https://dashboard.pusher.com/apps/1551818/keys
 5. go to api settings and enable client events : Enable client events
